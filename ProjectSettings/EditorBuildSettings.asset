@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes Backup/MainMenu.unity
+    guid: 3e7be6e688c91b64f902e5194a007c35
+  - enabled: 1
+    path: Assets/Scenes Backup/Level5.unity
+    guid: f0c9b4092da8e6c4cb0b2397c3b771c3
+  - enabled: 1
+    path: Assets/Scenes Backup/Level6.unity
+    guid: 1fb3cf72a6a39a04fbb2d2c225c7e549
+  - enabled: 1
+    path: Assets/Scenes Backup/Level7.unity
+    guid: fee0aaeda5ff09d48913e1102259d8d3
+  - enabled: 1
+    path: Assets/Scenes Backup/Level9.unity
+    guid: 6cb9861d1b6a2d1498021235a33d770e
+  - enabled: 1
+    path: Assets/Scenes Backup/Level10.unity
+    guid: 50df78496059bb740bba2d7804d001eb
+  - enabled: 1
+    path: Assets/Scenes Backup/Level11.unity
+    guid: ed586a61773cd744b861abb958846867
+  - enabled: 1
+    path: Assets/Scenes Backup/Level12.unity
+    guid: dd64fef320d346b4a918426ad56ca6cf
+  - enabled: 1
+    path: Assets/Scenes Backup/Level13.unity
+    guid: b1963f989bc18194ab1f8cc5db8b482c
+  - enabled: 1
+    path: Assets/Scenes Backup/Level14.unity
+    guid: e94d9030a5296734b8ae7d689e5f6b1e
+  m_configObjects: {}
